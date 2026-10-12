@@ -4,9 +4,10 @@ Core LLM application patterns in Python, built from scratch.
 
 ## Contents
 
-| Folder | What it does |
-|---|---|
-| `terminal-chat/` | Command-line chat with Gemini, using async calls and validated message history |
+| Folder | What it does | Week |
+|---|---|---|
+| `terminal-chat/` | Command-line chat with Gemini featuring **real-time token streaming** and validated **JSON-schema structured output** (intent, sentiment, topics, confidence) via Pydantic | **Week 1** |
+
 
 ## Setup
 
